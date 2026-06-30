@@ -15,21 +15,18 @@ A responsive React application that allows users to browse and explore movies us
 ## 📸 Screenshots
 
 ### Popular Movies Page
-![Popular Movies](./screenshots/popular.png)
+![Popular Movies](https://postimg.cc/D4n5tnJg)
 
 ### Top Rated Movies Page
-![Top Rated Movies](./screenshots/top-rated.png)
+![Top Rated Movies](https://postimg.cc/D4n5tnJ6)
 
 ### Upcoming Movies Page
-![Upcoming Movies](./screenshots/upcoming.png)
-
-### Movie Details Page
-![Movie Details](./screenshots/movie-details.png)
+![Upcoming Movies](https://postimg.cc/wR2FzZLL)
 
 ### Search Results Page
-![Search Results](./screenshots/search.png)
+![Search Results](https://postimg.cc/PvTKBTpm)
 
-> Create a `screenshots` folder inside your project and add the images.
+
 
 ---
 
