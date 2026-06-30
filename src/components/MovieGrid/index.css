@@ -1,0 +1,22 @@
+.movie-grid {
+  width: 100%;
+  padding: 10px;
+  box-sizing: border-box;
+
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  gap: 10px;
+}
+
+.no-movies-container {
+  min-height: 60vh;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.no-movies-container h1 {
+  color: white;
+  font-size: 28px;
+}

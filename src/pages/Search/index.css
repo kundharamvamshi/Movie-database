@@ -1,0 +1,21 @@
+@import '../Popular/index.css';
+
+.no-results-container {
+  min-height: 60vh;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.no-results-heading {
+  color: #ffffff;
+  font-size: 32px;
+  margin-bottom: 15px;
+}
+
+.no-results-text {
+  color: #d1d5db;
+  font-size: 18px;
+}

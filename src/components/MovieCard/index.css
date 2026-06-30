@@ -1,0 +1,60 @@
+.movie-card {
+  background-color: #1f2937;
+  border-radius: 12px;
+  overflow: hidden;
+  transition: transform 0.3s;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.4);
+}
+
+.movie-card:hover {
+  transform: translateY(-8px);
+}
+
+.movie-poster {
+  width: 100%;
+  height: 340px;
+  object-fit: cover;
+}
+
+.movie-info {
+  padding: 15px;
+  text-align: center;
+}
+
+.movie-title {
+  font-size: 18px;
+  color: white;
+  margin-bottom: 10px;
+  min-height: 45px;
+}
+
+.movie-rating {
+  color: gold;
+  margin-bottom: 15px;
+  font-size: 16px;
+}
+
+.details-btn {
+  width: 100%;
+  padding: 10px;
+  border: none;
+  background-color: #2563eb;
+  color: white;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 15px;
+}
+
+.details-btn:hover {
+  background-color: #1d4ed8;
+}
+
+@media screen and (max-width: 768px) {
+  .movie-poster {
+    height: 280px;
+  }
+
+  .movie-title {
+    font-size: 16px;
+  }
+}

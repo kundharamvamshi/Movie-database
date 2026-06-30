@@ -1,0 +1,57 @@
+.popular-page {
+  flex: 1;
+  background-color: #111827;
+}
+
+.popular-content {
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.page-heading {
+  color: #ffffff;
+  font-size: 36px;
+  font-weight: bold;
+  margin: 20px 30px;
+}
+
+.failure-container {
+  min-height: 60vh;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.failure-heading {
+  color: #ffffff;
+  font-size: 30px;
+  margin-bottom: 15px;
+}
+
+.failure-description {
+  color: #d1d5db;
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+.retry-btn {
+  padding: 10px 22px;
+  background-color: #2563eb;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.retry-btn:hover {
+  background-color: #1d4ed8;
+}
+
+@media screen and (max-width: 768px) {
+  .page-heading {
+    font-size: 28px;
+    margin: 20px;
+  }
+}

@@ -1,0 +1,22 @@
+.loader-container {
+  min-height: 70vh;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.loader-spinner {
+  width: 60px;
+  height: 60px;
+  border: 4px solid #2563eb;
+  border-top-color: transparent;
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
