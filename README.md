@@ -15,16 +15,16 @@ A responsive React application that allows users to browse and explore movies us
 ## 📸 Screenshots
 
 ### Popular Movies Page
-![Popular Movies](https://postimg.cc/D4n5tnJg)
+![Popular Movies](https://i.postimg.cc/kGtZR57k/Screenshot-2026-06-30-212756.png)
 
 ### Top Rated Movies Page
-![Top Rated Movies](https://postimg.cc/D4n5tnJ6)
+![Top Rated Movies](https://i.postimg.cc/gj65L0GC/Screenshot-2026-06-30-212808.png)
 
 ### Upcoming Movies Page
-![Upcoming Movies](https://postimg.cc/wR2FzZLL)
+![Upcoming Movies](https://i.postimg.cc/MX2L78GP/Screenshot-2026-06-30-212824.png)
 
 ### Search Results Page
-![Search Results](https://postimg.cc/PvTKBTpm)
+![Search Results](https://i.postimg.cc/Y0mVLSty/Screenshot-2026-06-30-212744.png)
 
 
 
